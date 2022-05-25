@@ -1,0 +1,5 @@
+﻿  OC6CHAPTER2.cpp
+C:\Users\Simon\Desktop\OC6CHAPTER2\OC6CHAPTER2\OC6CHAPTER2.cpp(57,20): warning C4101: 'checkstr': unreferenced local variable
+C:\Users\Simon\Desktop\OC6CHAPTER2\OC6CHAPTER2\OC6CHAPTER2.cpp(58,10): warning C4101: 'secchoice': unreferenced local variable
+C:\Users\Simon\Desktop\OC6CHAPTER2\OC6CHAPTER2\OC6CHAPTER2.cpp(57,17): warning C4101: 'i': unreferenced local variable
+  OC6CHAPTER2.vcxproj -> C:\Users\Simon\Desktop\OC6CHAPTER2\Debug\OC6CHAPTER2.exe

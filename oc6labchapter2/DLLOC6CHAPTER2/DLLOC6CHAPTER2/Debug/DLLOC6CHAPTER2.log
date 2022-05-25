@@ -1,0 +1,14 @@
+﻿  OC6CH2.cpp
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(7,51): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(8,42): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(9,48): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(14,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(35,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(46,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(60,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(76,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\DLLOC6CHAPTER2\DLLOC6CHAPTER2\OC6CH2.cpp(109,23): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\Simon\Desktop\DLLOC6CHAPTER2\Debug\DLLOC6CHAPTER2.lib and object C:\Users\Simon\Desktop\DLLOC6CHAPTER2\Debug\DLLOC6CHAPTER2.exp
+  DLLOC6CHAPTER2.vcxproj -> C:\Users\Simon\Desktop\DLLOC6CHAPTER2\Debug\DLLOC6CHAPTER2.dll
