@@ -1,0 +1,10 @@
+﻿  functions.cpp
+C:\Users\Simon\Desktop\oclaba6\oclaba6\functions.cpp(12,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\oclaba6\oclaba6\functions.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\oclaba6\oclaba6\functions.cpp(35,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\oclaba6\oclaba6\functions.cpp(46,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\oclaba6\oclaba6\functions.cpp(61,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\oclaba6\oclaba6\functions.cpp(79,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\oclaba6\oclaba6\functions.cpp(97,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simon\Desktop\oclaba6\oclaba6\functions.cpp(113,31): warning C4018: '<': signed/unsigned mismatch
+  oclaba6.vcxproj -> C:\Users\Simon\Desktop\workwithdllLABA6\Debug\oclaba6.dll

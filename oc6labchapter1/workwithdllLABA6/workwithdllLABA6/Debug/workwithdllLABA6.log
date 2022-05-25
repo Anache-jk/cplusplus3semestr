@@ -1,0 +1,5 @@
+﻿  workwithdllLABA6.cpp
+C:\Users\Simon\Desktop\workwithdllLABA6\workwithdllLABA6\workwithdllLABA6.cpp(33,20): warning C4101: 'checkstr': unreferenced local variable
+C:\Users\Simon\Desktop\workwithdllLABA6\workwithdllLABA6\workwithdllLABA6.cpp(34,10): warning C4101: 'secchoice': unreferenced local variable
+C:\Users\Simon\Desktop\workwithdllLABA6\workwithdllLABA6\workwithdllLABA6.cpp(33,17): warning C4101: 'i': unreferenced local variable
+  workwithdllLABA6.vcxproj -> C:\Users\Simon\Desktop\workwithdllLABA6\Debug\workwithdllLABA6.exe
